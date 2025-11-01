@@ -49,5 +49,8 @@
     <h2 style="color: #dc3545; font-size: 32px; border-bottom: 2px solid #dc3545; padding-bottom: 10px; margin-bottom: 20px;">🔗 Links</h2>
     <ul style="font-size: 18px; color: #007bff; list-style-type: square; margin-left: 40px; line-height: 1.6;">
         <li><a href="https://food-delivery-time-prediction-z1qp.onrender.com/" target="_blank" style="text-decoration: none;">🌐 Live Web App</a></li>
+        <li>
+View the results in the outputs
+https://food-delivery-time-prediction-z1qp.onrender.com/</li>
     </ul>
 </section>
