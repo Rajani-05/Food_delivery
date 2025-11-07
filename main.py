@@ -22,7 +22,7 @@ from utils.theme_manager import initialize_theme, render_theme_toggle, get_dynam
 
 # Page configuration
 st.set_page_config(
-    page_title="🚚 Smart Delivery Time Predictor",
+    page_title="Smart Delivery Time Predictor",
     page_icon="🚚",
     layout="wide",
     initial_sidebar_state="expanded"
