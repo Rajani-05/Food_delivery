@@ -15,7 +15,7 @@
     <ul style="font-size: 18px; color: #555; list-style-type: square; margin-left: 40px; line-height: 1.6;">
         <li>Cleaned and preprocessed raw delivery data.</li>
         <li>Performed feature engineering including time/date extraction.</li>
-        <li>Built a machine learning pipeline using <strong>Random Forest Regressor</strong>.</li>
+        <li>Built a machine learning pipeline using <strong>Random Forest Regressor</strong>...</li>
         <li>Saved the trained model using <code>pickle</code> for production use.</li>
         <li>Developed a <strong>Streamlit</strong> web application for real-time prediction.</li>
         <li>Deployed the web app using <strong>Render</strong>.</li>
